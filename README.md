@@ -6,3 +6,8 @@ with Modelica.
 ## Authors
 
 - Marco Bonvini (bonvini.m@gmail.com)
+
+## License
+
+This work is released under the 3-Clause BSD License, see the
+LICENSE file for more information.
